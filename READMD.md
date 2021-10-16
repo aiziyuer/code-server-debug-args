@@ -3,6 +3,8 @@ arguments in launch.json not work in code-server
 
 ## My Code
 
+https://github.com/aiziyuer/code-server-debug-args
+
 ```
 mkdir -p code-server-debug-args
 mkdir -p code-server-debug-args/.vscode
